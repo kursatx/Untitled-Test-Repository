@@ -48,6 +48,7 @@ class _MyAppState extends State<MyApp> {
 }
 // Yapılan Değişikliğin Gözükeceği Blok
 // Burası Çokomelli
+// Burası Daha Çokomelli
 class MyApp2 extends StatefulWidget {
   const MyApp2({Key? key}) : super(key: key);
 
